@@ -6,6 +6,9 @@
 *Instructors:* Jordan Crouser, Nick Howe      
 *Timeline:* December 2021      
 
+### *How to run this project:*      
+To run this project, download and run the source code from this repo.
+
 ### *Overview:*      
 This is the final project that I created with my group members for the CSC 212 Programming with Data Structures class at Smith College. Our goal for this project was to create a text-based choose-your-own-adventure game using data structures.
 
